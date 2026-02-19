@@ -2,7 +2,7 @@
 
 ## Cronometro BandG
 
-[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/BandG/tree/master)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/BandG/tree/master)
 [![JAVA](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)]()
 
 >Projeto do terceiro periodo de Ciencias da Computacao, se trata de um sistema que registra equipes, membros e tempo de voltas em um banco de dados, tendo sua interface construida com a biblioteca AWT
@@ -37,7 +37,7 @@ BYG/
 
 ## Comparador de imagens
 
-[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/Comparador-de-imagens)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/Comparador-de-imagens)
 [![JAVA](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)]()
 
 > Projeto de Ciencias da Computacao no quarto periodo, realiza conexão com uma API publica e solicita fotos tiradas via satelite para que o usuario possa visualizar
@@ -88,7 +88,7 @@ Comparador-de-imagens/
 - Executar Program/GetImages.java
 
 ## Outer Space
-[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/outer_space/tree/master)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/outer_space/tree/master)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ![Outer Space](images/OuterSpace_1.png)
@@ -117,18 +117,18 @@ Comparador-de-imagens/
 
 > Fases que estão ligadas somente com a fase seguinte, formando um game loop 
 
-[![Itch.io](https://img.shields.io/badge/Download%20do%20Projeto-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://br-camp.itch.io/outer-space)
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://br-camp.itch.io/outer-space)
 
 🔗 Página com dowload do projeto acima
 
 ## Castle Board
 
-[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/castle_board/tree/master)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/castle_board/tree/master)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ![Castle Board](images/CastleBoard_1.png)
 
-> Projeto feito durante maratona de game dev, ao longo de 50 horas, com uma equipe indenpendente
+> Projeto feito durante maratona de desenvolvimento de jogos(game jam) ao longo de 50 horas, com uma equipe indenpendente
 
 <div>
     <img src="images/CastleBoard_2.png" width=45%>
@@ -137,11 +137,31 @@ Comparador-de-imagens/
 
 > Para o confronto entre peças de xadrez com peças de damas, foi criado um grid isometrico onde o jogador deve posicionar suas peças estrategicamente para cobrir o espaço por onde ira passar as peças adversárias. O jogador tem um limite de peças, e auxilios visuais para ver onde está posicionando suas peças, e qual área está sendo coberta.
 
-[![Itch.io](https://img.shields.io/badge/Download%20do%20Projeto-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://agentetitan.itch.io/castle-board)
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://agentetitan.itch.io/castle-board)
 
 🔗 Página com dowload do projeto acima
 
 ## Macabra
+
+[![Acessar projeto](https://img.shields.io/badge/Acessar%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/Macabra/tree/master)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
+
+![Macabra](images/Macabra_1.png)
+![Macabra](images/Macabra_2.png)
+![Macabra](images/Macabra_3.png)
+
+> Projeto de game jam, feito durante 50 horas, com uma equipe indenpendente e mais madura
+
+|  |  |
+|--|--|
+| ![Macabra](images/Macabra_4.png) | ![Macabra](images/Macabra_5.png) |
+| ![Macabra](images/Macabra_6.png) | ![Macabra](images/Macabra_7.png) |
+
+> Jogo de terror baseado em slender man, com um perseguidor que usa algoritmo path finder para se locomover pelo mapa, o jogador se movimenta livremente e pode agarrar itens, que tem sua posição ancorada com o do jogador caso coletadas. O progresso se dá pela coleta desses itens, que irá ativar o evento que possibilita prosseguir.
+
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pedrolimamedrado.itch.io/macabra)
+
+🔗 Página com dowload do projeto acima
 
 ## Spiegel Wasser
 
