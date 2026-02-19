@@ -35,7 +35,6 @@ BYG/
 - Adicionar mysql-connector no Services/Databases e configurar conexao para byg
 - executar Cronometro.java
 
-
 ## Comparador de imagens
 
 [![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/Comparador-de-imagens)
@@ -51,7 +50,7 @@ BYG/
 
 ![Comparador de imagens](images/CompMain.png)
 
-## 📁 Estrutura do projeto
+### 📁 Estrutura do projeto
 
 ```bash
 Comparador-de-imagens/
@@ -89,6 +88,34 @@ Comparador-de-imagens/
 - Executar Program/GetImages.java
 
 ## Outer Space
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/outer_space/tree/master)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
+
+![Outer Space](images/OuterSpace_1.png)
+
+> Projeto de grupo independente, feito com Unity, realizado durante a finalização do ensino médio. Conciste em um plataforma 2D de ação com sistema de gravidade e inimigos com comportamentos unicos
+
+![Outer Space](images/OuterSpace_2.png)
+
+> HUD, recebe atributos do personagem e traduz para uma interface, e possui botões funcionais para o mobile que permite o jogador de celular aproveitar a experiencia da mesma forma como os de computador. A HUD tem posição variada, que se adapta com a resolução da tela.
+
+|  |  |
+|--|--|
+| ![Outer Space](images/OuterSpace_3.png) | ![Outer Space](images/OuterSpace_4.png) |
+| ![Outer Space](images/OuterSpace_5.png) | ![Outer Space](images/OuterSpace_6.png) |
+| ![Outer Space](images/OuterSpace_7.png) | ![Outer Space](images/OuterSpace_9.png) |
+
+> Sistema de combate, com cada inimigo possuindo um comportamento próprio para lidar com o jogador, que também possui suas mêcanicas de combate que conversa com o sistema de estados do jogador.
+
+|  |  |  |
+|--|--|--|
+| ![Outer Space](images/OuterSpace_8.png) | ![Outer Space](images/OuterSpace_10.png) | ![Outer Space](images/OuterSpace_11.png) |
+
+> Sistema de movimentação simples, porém funcional, que se adapta com o ambiente, podendo mudar a grávidade para que fique centrada em um ponto, mantendo a jogabilidade, mas mudando a orientação
+
+![Outer Space](images/OuterSpace_12.png)
+
+> Fases que estão ligadas somente com a fase seguinte, formando um game loop 
 
 ## Castle Board
 
