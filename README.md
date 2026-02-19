@@ -117,7 +117,29 @@ Comparador-de-imagens/
 
 > Fases que estão ligadas somente com a fase seguinte, formando um game loop 
 
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Projeto-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://br-camp.itch.io/outer-space)
+
+🔗 Página com dowload do projeto acima
+
 ## Castle Board
+
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/castle_board/tree/master)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
+
+![Castle Board](images/CastleBoard_1.png)
+
+> Projeto feito durante maratona de game dev, ao longo de 50 horas, com uma equipe indenpendente
+
+<div>
+    <img src="images/CastleBoard_2.png" width=45%>
+    <img src="images/CastleBoard_3.png" width=45%>
+</div>
+
+> Para o confronto entre peças de xadrez com peças de damas, foi criado um grid isometrico onde o jogador deve posicionar suas peças estrategicamente para cobrir o espaço por onde ira passar as peças adversárias. O jogador tem um limite de peças, e auxilios visuais para ver onde está posicionando suas peças, e qual área está sendo coberta.
+
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Projeto-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://agentetitan.itch.io/castle-board)
+
+🔗 Página com dowload do projeto acima
 
 ## Macabra
 
