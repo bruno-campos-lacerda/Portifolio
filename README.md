@@ -83,7 +83,7 @@ Comparador-de-imagens/
 - Clonar repositorio
 - Criar pasta lib/ e adicionar arquivos .jar, e então ao classpath
 - Importar, ou replicar, o banco de dados
-- Configurar conexão com o banco de dados
+- Configurar conexao com o banco de dados
 - Executar o programa service/GetImages.java até ele finalizar
 - Executar Program/GetImages.java
 
@@ -93,11 +93,11 @@ Comparador-de-imagens/
 
 ![Outer Space](images/OuterSpace_1.png)
 
-> Projeto de grupo independente, feito com Unity, realizado durante a finalização do ensino médio. Conciste em um plataforma 2D de ação com sistema de gravidade e inimigos com comportamentos unicos
+> Projeto de grupo independente, feito com Unity, realizado durante a finalização do ensino medio. Conciste em um plataforma 2D de ação com sistema de gravidade e inimigos com comportamentos unicos
 
 ![Outer Space](images/OuterSpace_2.png)
 
-> HUD, recebe atributos do personagem e traduz para uma interface, e possui botões funcionais para o mobile que permite o jogador de celular aproveitar a experiencia da mesma forma como os de computador. A HUD tem posição variada, que se adapta com a resolução da tela.
+> HUD, recebe atributos do personagem e traduz para uma interface, e possui botoes funcionais para o mobile que permite o jogador de celular aproveitar a experiencia da mesma forma como os de computador. A HUD tem posição variada, que se adapta com a resolucao da tela.
 
 |  |  |
 |--|--|
@@ -105,13 +105,13 @@ Comparador-de-imagens/
 | ![Outer Space](images/OuterSpace_5.png) | ![Outer Space](images/OuterSpace_6.png) |
 | ![Outer Space](images/OuterSpace_7.png) | ![Outer Space](images/OuterSpace_9.png) |
 
-> Sistema de combate, com cada inimigo possuindo um comportamento próprio para lidar com o jogador, que também possui suas mêcanicas de combate que conversa com o sistema de estados do jogador.
+> Sistema de combate, com cada inimigo possuindo um comportamento próprio para lidar com o jogador, que também possui suas mecanicas de combate que conversa com o sistema de estados do jogador.
 
 |  |  |  |
 |--|--|--|
 | ![Outer Space](images/OuterSpace_8.png) | ![Outer Space](images/OuterSpace_10.png) | ![Outer Space](images/OuterSpace_11.png) |
 
-> Sistema de movimentação simples, porém funcional, que se adapta com o ambiente, podendo mudar a grávidade para que fique centrada em um ponto, mantendo a jogabilidade, mas mudando a orientação
+> Sistema de movimentacao simples, porem funcional, que se adapta com o ambiente, podendo mudar a gravidade para que fique centrada em um ponto, mantendo a jogabilidade, mas mudando a orientacao
 
 ![Outer Space](images/OuterSpace_12.png)
 
@@ -119,7 +119,7 @@ Comparador-de-imagens/
 
 [![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://br-camp.itch.io/outer-space)
 
-🔗 Página com dowload do projeto acima
+🔗 Pagina com dowload do projeto acima
 
 ## Castle Board
 
@@ -135,11 +135,11 @@ Comparador-de-imagens/
     <img src="images/CastleBoard_3.png" width=45%>
 </div>
 
-> Para o confronto entre peças de xadrez com peças de damas, foi criado um grid isometrico onde o jogador deve posicionar suas peças estrategicamente para cobrir o espaço por onde ira passar as peças adversárias. O jogador tem um limite de peças, e auxilios visuais para ver onde está posicionando suas peças, e qual área está sendo coberta.
+> Para o confronto entre peças de xadrez com peças de damas, foi criado um grid isometrico onde o jogador deve posicionar suas peças estrategicamente para cobrir o espaço por onde ira passar as peças adversarias. O jogador tem um limite de peças, e auxilios visuais para ver onde esta posicionando suas peças, e qual area esta sendo coberta.
 
 [![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://agentetitan.itch.io/castle-board)
 
-🔗 Página com dowload do projeto acima
+🔗 Pagina com dowload do projeto acima
 
 ## Macabra
 
@@ -157,13 +157,45 @@ Comparador-de-imagens/
 | ![Macabra](images/Macabra_4.png) | ![Macabra](images/Macabra_5.png) |
 | ![Macabra](images/Macabra_6.png) | ![Macabra](images/Macabra_7.png) |
 
-> Jogo de terror baseado em slender man, com um perseguidor que usa algoritmo path finder para se locomover pelo mapa, o jogador se movimenta livremente e pode agarrar itens, que tem sua posição ancorada com o do jogador caso coletadas. O progresso se dá pela coleta desses itens, que irá ativar o evento que possibilita prosseguir.
+> Jogo de terror baseado em slender man, com um perseguidor que usa algoritmo path finder para se locomover pelo mapa, o jogador se movimenta livremente e pode agarrar itens, que tem sua posicao ancorada com o do jogador caso coletadas. O progresso se da pela coleta desses itens, que ira ativar o evento que possibilita prosseguir.
 
 [![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pedrolimamedrado.itch.io/macabra)
 
-🔗 Página com dowload do projeto acima
+🔗 Pagina com dowload do projeto acima
 
 ## Spiegel Wasser
+
+[![Acessar projeto](https://img.shields.io/badge/Acessar%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/bruno-campos-lacerda/spiegel-wasser/tree/master)
+[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/download/windows/)
+
+![Spiegel Wasser](images/SpiegelWasser_1.png)
+
+> Projeto de grupo indenpendente, feito na godot com suporte para .Net, continuacao de um projeto feito em game jam, durante 50 horas.
+
+![Spiegel Wasser](images/SpiegelWasser_2.png)
+
+> HUD, traduz atributo de stamina do jogador para uma barra.
+
+> Shaders que simulam o reflexo da agua, refletindo objetos dentro da cena
+
+![Spiegel Wasser](images/SpiegelWasser_3.png)
+![Spiegel Wasser](images/SpiegelWasser_4.png)
+![Spiegel Wasser](images/SpiegelWasser_5.png)
+
+> Movimentacao avançada dividida em estados, podendo o jogador se mover normalmente, alternar para locomocao mais rapida ou pulo mais potente, deslizar ou se pendurar nas paredes, e poder usar um dash nas oito direcoes
+
+> Sistema de estados, que impoe regras sobre quando o jogador pode ou não usar uma acao baseado em seu estado, seja no ar, andando ou usando um dash
+
+> Sistema de stamina que limita movimentos do jogador
+
+### ▶️ Como Jogar
+- Clone o projeto e abra na godot com suporte para .Net
+- Em gerenciar modelos de exportacao(preset), baixe o modelo para o sistema que deseja jogar
+- Exporte o jogo e execute-o
+
+[![Itch.io](https://img.shields.io/badge/Download%20do%20Jogo%20de%20game%20jam-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pedrolimamedrado.itch.io/spiegel-wasser)
+
+🔗Link para baixar a primeira versao, de game jam, do Spiegel Wasser acima
 
 ## Dark Circles
 - Em producao
